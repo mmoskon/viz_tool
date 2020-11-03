@@ -5,7 +5,7 @@
 * Written by Miha Moškon (Computational Biology Group, Faculty of Computer and Information Science, University of Ljubljana)
 * contact: [miha.moskon@fri.uni-lj.si](mailto:miha.moskon@fri.uni-lj.si)
 
-This code was latter ported to Python and extended with additional functionalities and a graphical user interface. These extensions are available in the [Grohar repository](https://github.com/mmoskon/Grohar) and described in the paper [Grohar: Automated Visualization of Genome-Scale Metabolic Models and Their Pathways](https://www.liebertpub.com/doi/abs/10.1089/cmb.2017.0209) ([preprint](https://www.researchgate.net/publication/323297141_Grohar_Automated_Visualization_of_Genome-Scale_Metabolic_Models_and_Their_Pathways))
+The code was latter ported to Python and extended with additional functionalities and a graphical user interface. These extensions are available in the [Grohar repository](https://github.com/mmoskon/Grohar) and described in the paper [Grohar: Automated Visualization of Genome-Scale Metabolic Models and Their Pathways](https://www.liebertpub.com/doi/abs/10.1089/cmb.2017.0209) ([preprint](https://www.researchgate.net/publication/323297141_Grohar_Automated_Visualization_of_Genome-Scale_Metabolic_Models_and_Their_Pathways))
 
 ## Prerequisites:
 * Matlab 2015b or newer (requires the implementation of graph function)
